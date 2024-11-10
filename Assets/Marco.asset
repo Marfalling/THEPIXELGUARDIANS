@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 077e999097826554ab848e276bb52da0, type: 3}
+  m_Name: Marco
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 8213676400711099304, guid: 8cf40e647bbaa7548a33641641305c08, type: 3}
+  imagen: {fileID: 21300000, guid: e3e6fd03f2e592546998b80a58747312, type: 3}
+  nombre: MARCO
